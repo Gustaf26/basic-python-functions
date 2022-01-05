@@ -46,7 +46,7 @@
 
 ## :dart: About ##
 
-Here you can find some basic Python exercises with solutions.
+Here you can find some basic Python exercises with functions and solutions.
 
 Be my guest :-)
 
